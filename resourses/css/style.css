@@ -14,7 +14,7 @@ h1 {
 font-size: 18px;
 color: white;
 }
-.Me {
+.me {
   font-size:23px;
   font-weight: bold;
   color: white;
@@ -23,4 +23,11 @@ color: white;
 .About{
   background-color: dimgray;
   text-align: left;
+  color: white
+}
+span.A{
+text-align:left;
+}
+.Broadway{
+  font-size: 11px;
 }
